@@ -4,4 +4,5 @@
 
 require('settings')
 require('plugins')
+require('completion-with-coc')
 
